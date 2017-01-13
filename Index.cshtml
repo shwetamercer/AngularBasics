@@ -1,0 +1,36 @@
+﻿
+
+
+<body>
+    <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js" type="text/javascript"></script>
+
+    <div ng-controller="PageCtrl" ng-app="myApp">
+        <div ng-controller="PageCtrl">
+            <label>Search:</label> <input type="text" ng-model="filterText" placeholder="Search" />
+
+            <p><strong><a href="" ng-click="resetFilters()">Show All</a></strong></p>
+
+            <h1>Items</h1>
+
+
+            <table class="table" >
+                <thead>
+                    <tr>
+                        <th ng-repeat="h in header"><a href="" ng-click="toggleSort($index)">{{ header[$index] }}</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="item in filtered = items | filterByProperty:filterText:'BookName' |startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit | orderBy:sortColumn:reverse">
+                        <td>{{item.ID}}</td>
+                        <td>{{item.BookName}}</td>
+                        <td>{{item.AuthorName}}</td>
+                        <td>{{item.ISBN}}</td>
+                    </tr>
+                   
+                    </tbody>
+                </table>
+                <pagination page="currentPage" max-size="noOfPages" total-items="totalItems" items-per-page="entryLimit"></pagination>
+        </div>
+
+</body>
