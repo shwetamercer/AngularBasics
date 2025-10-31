@@ -1,0 +1,49 @@
+Project writing (STAR format.. sort of)
+
+
+
+Introduction
+
+1.	Background - what is the wider context to the business problem you are trying to solve? 
+2.	Problem Statement - what is the specific business problem you are trying to solve? How is this related to your role, your team and your organisation? How was this work assigned to you? (B3)
+3.	Stakeholder management - who is affected by this project? Who have you discussed this with? How have you managed their expectations? (K9 S7 S12, DC)
+4.	Discuss your data – classify and categorise your data (K4, S3)
+5.	Data Protection - what organisational policies and processes have you considered when it comes to working with your data? Are there any other policies you have had to consider (e.g. internal information sharing rules)? (S1, S3, k12)
+
+
+Proposed Solution
+1.	How are you proposing to solve this problem? (S2, S7, S15, B4) What assumptions have you made? What tools and technologies will you use and why? (K11 S15)
+2.	Why is your approach a good approach? What alternative approaches have you considered? (S15, DC)
+3.	What is a list of tasks that need completing to implement your solution and how did you prioritise them?
+4.	Where are you sourcing your data from? What data protection considerations have you made? How will your project be kept up to date as data changes? (K12, S1)
+
+Implementation (S2, B4)
+
+1.	Detail the tasks you completed to implement your solution. You do not need to share the full technical output, but you need to explain any code you do share.
+a.	Data Acquisition (S8)
+b.	Data Cleansing and Formatting (K8)
+c.	Merging Data Sources (S4, S8)
+d.	Data wrangling or manipulation
+e.	Data Quality and Validation (S6 S8)
+f.	Data Analysis & Exploration (S15)
+g.	Audit
+h.	Summarising, Presenting and Communicating Data (S12)
+i.	Storing (S1)
+
+2.	Working with others (B3) - did you do this work by yourself? If not, what was your contribution? How did you work with others to accomplish each task?
+
+
+Results
+
+1.	Summarise the results (B4)
+2.	What did you learn (B6)? 
+3.	What went well? 
+4.	What didn't go well and/or how did you fix problems/solutions (B5, B6, B7, DC)? 
+5.	What would you do differently next time? (DC)
+6.	Did you present this work to stakeholders? What was the feedback? (S12, S7)
+
+
+Evaluation
+1.	How do your results help solve your business problem? If not, discuss why not and how you could address this in a future project. (DC)
+2.	What is the impact on your organisation/stakeholders? (S7 S12)
+3.	What future work could you or a colleague complete to continue this project?
