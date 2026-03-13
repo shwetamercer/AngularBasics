@@ -1,0 +1,123 @@
+AIG 2026 GOALS - SOFTWARE DEVELOPER
+==========================================
+
+GOAL 1: Accelerate GenAI and Intelligent Automation Capabilities in Development
+================================================================================
+
+Key Results:
+- Accelerate feature development by 30-40% through adoption of GenAI-powered coding assistants (GitHub Copilot, Amazon CodeWhisperer)
+- Leverage GenAI for automated code reviews, test generation, and documentation to increase team productivity
+- Contribute to agentic AI pilot initiatives for automated security testing and vulnerability remediation
+- Reduce time spent on repetitive coding tasks by 50%, reallocating effort to high-value business features
+
+Measurable Outcomes:
+- GenAI tools adopted for 80%+ of development tasks
+- Sprint velocity increased by 25% through AI-assisted development
+- 100+ hours saved per quarter through automated code generation
+
+
+GOAL 2: Deliver Secure, High Quality Solutions with Robust Testing and Security Standards
+==========================================================================================
+
+Key Results:
+- Maintain SonarQube Quality Gate pass rate of 95%+ across all projects with zero critical security vulnerabilities
+- Participate in Legit Security Vibe Guard pilot to establish supply chain security best practices
+- Achieve 100% repository coverage with Legit Security scanning, blocking high/critical vulnerabilities before production
+- Implement comprehensive testing strategy achieving 85%+ code coverage with automated security testing
+
+Measurable Outcomes:
+- Zero critical/high security vulnerabilities in production code
+- SonarQube security hotspots resolved within 48 hours
+- Legit Security scan integration completed for all owned repositories
+- Vibe Guard pilot findings implemented across development workflows
+
+
+GOAL 3: Modernise and Optimise Technology Stack to Drive IT Efficiency
+=======================================================================
+
+Key Results:
+- Refactor legacy applications using GenAI-assisted code modernization guided by SonarQube technical debt analysis
+- Reduce technical debt ratio to <5% through systematic elimination of code smells and duplications
+- Migrate applications to cloud-native architectures, reducing infrastructure costs by 20-30%
+- Optimize code efficiency and eliminate performance bottlenecks identified by SonarQube quality profiles
+
+Measurable Outcomes:
+- Technical debt reduced by 40% (SonarQube measured)
+- 5,000+ lines of legacy code refactored using GenAI tools
+- Application performance improved by 25% through optimization initiatives
+- $100K+ annual cost savings from modernization efforts
+
+
+GOAL 4: Enable Sustainable Organic Growth through Technology Innovation
+========================================================================
+
+Key Results:
+- Deliver technology capabilities supporting SCUP expansion, claims fraud detection, and underwriting automation
+- Build secure, scalable APIs enabling new product offerings with Legit Security validation
+- Reduce development costs through GenAI automation while maintaining quality (SonarQube gates)
+- Prevent security incidents that impact revenue using comprehensive security scanning (SonarQube + Legit Security)
+
+Measurable Outcomes:
+- 3+ growth-enabling features delivered with zero production defects
+- API performance supporting 50% transaction volume increase
+- Security posture maintained at 100% (preventing potential breach costs)
+- Development efficiency gains freeing capacity for 2 additional growth projects
+
+
+GOAL 5: Champion Operational Excellence through Disciplined Engineering Practices
+==================================================================================
+
+Key Results:
+- Adopt automated quality gates (SonarQube + Legit Security) in CI/CD pipelines ensuring disciplined delivery
+- Improve sprint predictability through GenAI-assisted estimation and automated testing
+- Implement continuous inspection workflows catching defects 10x cheaper than production fixes
+- Champion agile best practices with security-by-design principles embedded in every sprint
+
+Measurable Outcomes:
+- 95%+ sprint commitment achievement rate
+- Automated quality checks integrated in 100% of CI/CD pipelines
+- Mean time to deployment reduced by 40% through automation
+- Post-production defects reduced by 50% through early detection
+
+
+GOAL 6: Foster Culture of Security Excellence and Risk-Aware Development
+=========================================================================
+
+Key Results:
+- Participate in Legit Security Vibe Guard pilot, establishing secure development standards for the organization
+- Eliminate hardcoded secrets and credentials using Legit Security secret scanning across all repositories
+- Maintain zero tolerance for security anti-patterns through SonarQube security rules enforcement
+- Mentor team members on secure coding practices, GenAI responsible use, and compliance requirements
+- Ensure all code deliverables meet data protection, risk management, and governance standards
+
+Measurable Outcomes:
+- 100% secret-free codebase (Legit Security validated)
+- Vibe Guard pilot best practices documented and shared with 3+ teams
+- 2+ security training sessions conducted for team members
+- Zero compliance violations or security policy breaches
+- Contribution to enterprise-wide security standards through pilot participation
+
+
+CROSS-CUTTING METRICS ACROSS ALL GOALS
+=======================================
+
+SonarQube Metrics:
+- Quality Gate pass rate: 95%+
+- Technical Debt ratio: <5%
+- Zero critical/high security issues in production
+
+Legit Security Metrics:
+- 100% repository coverage
+- Critical findings remediated within 48 hours
+- Vibe Guard pilot completion and implementation
+
+GenAI Adoption Metrics:
+- 35% productivity gain
+- 100+ hours saved quarterly
+- 80%+ task coverage
+
+Business Impact:
+- Faster delivery of features
+- Lower operational costs
+- Zero security breaches
+- Enabled growth initiatives
